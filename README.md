@@ -9,6 +9,8 @@ circles the glass. Handwriting can be written on, stroke by stroke.
 
 A Swift package (macOS 14+, iOS 17+) with a command-line tool.
 
+![hello over a backdrop](images/hello-backdrop.jpg)
+
 ![SF Symbols as glass](images/symbols.png)
 
 SF Symbols drawn on in glass, following SF Symbols' own Draw On paths:
